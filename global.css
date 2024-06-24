@@ -3,7 +3,7 @@ BODY	{
 	font-family:verdana, arial, sans-serif;
 	font-size:9pt;
 	background:#719ed9;
-	color:#0303fc;
+	color:#D8DED3;
 	
 	/* color:#A0AA95; */
 	line-height:11px;
@@ -19,7 +19,7 @@ BODY	{
 BODY.forum	{	
 	font-family:verdana, arial, sans-serif;
 	font-size:9pt;
-	background:#4C5844;
+	background:#01295e;
 	color:#D8DED3;
 	
 	/* color:#A0AA95; */

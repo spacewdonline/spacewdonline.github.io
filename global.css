@@ -19,7 +19,7 @@ BODY	{
 BODY.forum	{	
 	font-family:verdana, arial, sans-serif;
 	font-size:9pt;
-	background:#01295e;
+	background:#719ed9;
 	color:#D8DED3;
 	
 	/* color:#A0AA95; */
@@ -196,7 +196,7 @@ DIV.box	{
 	float:right;
 	margin:0px 0px 0px 0px;
 	padding:4px 16px 8px 8px;
-	background:#282E22;
+	background:#01295e;
 	width:180px;
 	position:relative;
 	font-size:8pt;
